@@ -3,7 +3,7 @@
 
 This repository include/s the first project(s) under Data Scientist with Python career track from DataCamp, which entails investigating, manipulating, and visualizing movie and TV data.
 
-*Note: The project(s) are taken after finishing the first and second fundamental courses—Introduction to Python and Intermediate Python.*
+*Note: The project(s) are taken after finishing the first and second fundamental courses—Introduction to Python and Intermediate Python—for data scientists using Python.*
 
 ## :computer: Project Description (from DataCamp)
 > In these projects, you will apply the skills you learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. You will press “watch next episode” to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
