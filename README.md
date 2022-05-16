@@ -12,4 +12,4 @@ This repository include/s the first project(s) under Data Scientist with Python 
 
 ## :keyboard: Projects
 - Guided Project ([Investigating Netflix Movies](https://github.com/zwnq/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/blob/main/Guided%20Project/notebook.ipynb))
-- Unguided Project (Investigating Guest Stars in The Office)
+- Unguided Project ([Investigating Guest Stars in The Office](https://github.com/zwnq/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/blob/main/Unguided%20Project/notebook.ipynb))
