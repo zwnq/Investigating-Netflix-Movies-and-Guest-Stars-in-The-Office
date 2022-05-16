@@ -11,5 +11,5 @@ This repository include/s the first project(s) under Data Scientist with Python 
 > You will also gain experience in an essential data science skill — exploratory data analysis. This will allow you to perform critical tasks such as manipulating raw data and drawing conclusions from plots you create of the data.
 
 ## :keyboard: Projects
-- Guided Project ([Investigating Netflix Movies](https://github.com/zwnq/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/tree/main/Guided%20Project))
+- Guided Project ([Investigating Netflix Movies](https://github.com/zwnq/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/blob/main/Guided%20Project/notebook.ipynb))
 - Unguided Project (Investigating Guest Stars in The Office)
