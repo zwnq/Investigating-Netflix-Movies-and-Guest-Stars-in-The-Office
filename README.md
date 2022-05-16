@@ -9,3 +9,7 @@ This repository include/s the first project(s) under Data Scientist with Python 
 > In these projects, you will apply the skills you learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. You will press “watch next episode” to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
 
 > You will also gain experience in an essential data science skill — exploratory data analysis. This will allow you to perform critical tasks such as manipulating raw data and drawing conclusions from plots you create of the data.
+
+## :keyboard: Projects
+- Guided Project ([Investigating Netflix Movies](https://github.com/zwnq/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/tree/main/Guided%20Project))
+- Unguided Project (Investigating Guest Stars in The Office)
