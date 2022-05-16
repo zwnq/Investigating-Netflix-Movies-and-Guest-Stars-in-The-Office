@@ -1,5 +1,5 @@
 # **Investigating Netflix Movies and Guest Stars in The Office**
-![Netflix & The Office logo](https://imgur.com/a/dm7xhTE)
+![Netflix & The Office logo](Source/img.png)
 
 This repository include/s the first project(s) under Data Scientist with Python career track from [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python), which entails investigating, manipulating, and visualizing movie and TV data.
 
